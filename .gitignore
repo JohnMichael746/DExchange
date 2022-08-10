@@ -1,0 +1,8 @@
+build/
+SafeMath.sol
+notes.txt
+Utils.sol
+node_modules
+client/fend/src/contracts/
+.secrets.js
+*.zip
